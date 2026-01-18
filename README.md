@@ -1,2 +1,1 @@
 # my-bot
-Discord bot
